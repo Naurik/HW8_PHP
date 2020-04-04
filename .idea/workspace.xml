@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b61003b-4b48-436d-ba5f-8a04aa8c5db3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prependB</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1ZyWmFYr89iA6VazgsYvXVBDIbH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Lessons" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b61003b-4b48-436d-ba5f-8a04aa8c5db3" name="Default Changelist" comment="" />
+      <created>1583328114036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583328114036</updated>
+      <workItem from="1583328115546" duration="8551000" />
+      <workItem from="1583414112758" duration="7837000" />
+      <workItem from="1583846519780" duration="8187000" />
+      <workItem from="1585811976402" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585811976090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585811976090" />
+  </component>
+</project>
